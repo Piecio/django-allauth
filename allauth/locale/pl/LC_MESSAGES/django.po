@@ -586,8 +586,8 @@ msgid ""
 "This email confirmation link expired or is invalid. Please <a href="
 "\"%(email_url)s\">issue a new email confirmation request</a>."
 msgstr ""
-"Łącze z adresem do zresetowania hasła wygasło lub jest niepoprawne.  <a href="
-"\"%(email_url)s\">wygenerować nowe łącze dla Twojego adresu. </a>."
+"To łącze z adresem do potwierdzenie adresu e-mail wygasło lub jest niepoprawne.  Proszę<a href="
+"\"%(email_url)s\">wygenerować nowe łącze do potwierdzenie adresu e-mail. </a>."
 
 #: templates/account/login.html:15
 #, python-format
